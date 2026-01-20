@@ -106,9 +106,3 @@ A tech enthusiast focused on defensive security and tooling, with an emphasis on
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1c1917&fontColor=f0f0f5&fontAlignY=43&section=footer" alt="Footer"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>⭐ Star my repositories if you find them useful! ⭐</i>
-</p>
