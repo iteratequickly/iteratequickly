@@ -29,29 +29,47 @@ A tech enthusiast focused on defensive security and tooling, with an emphasis on
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">Windows Product Info GUI</h3>
 <div align="center">  
 <a href="https://github.com/iteratequickly/Windows-Product-Info-GUI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=iteratequickly&repo=Windows-Product-Info-GUI&bg_color=0d1117&title_color=84cc16&text_color=c9d1d9&icon_color=84cc16&border_color=30363d&border_radius=10"/>
 </a>
-<p><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></p>
+<p>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+</p>
 </div>
 </td>
-<td width="50%">
+
+<td width="33%">
 <h3 align="center">Tweet Removal Tool</h3>
 <div align="center">
 <a href="https://github.com/iteratequickly/Tweet-Removal-Tool">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=iteratequickly&repo=Tweet-Removal-Tool&bg_color=0d1117&title_color=84cc16&text_color=c9d1d9&icon_color=84cc16&border_color=30363d&border_radius=10"/>
 </a>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+</p>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">yt-dlp-gui</h3>
+<div align="center">
+<a href="https://github.com/iteratequickly/yt-dlp-gui">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iteratequickly&repo=yt-dlp-gui&bg_color=0d1117&title_color=84cc16&text_color=c9d1d9&icon_color=84cc16&border_color=30363d&border_radius=10"/>
+</a>
+<p>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 </div>
 </td>
 </tr>
 </table>
+
 
 <br/>
 
